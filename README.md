@@ -32,7 +32,7 @@ Cada competência é avaliada de **0 a 200**, totalizando uma nota final **entre
 
 ---
 
-## 📁 Estrutura Inicial do Projeto
+📁 Estrutura Inicial do Projeto
 
 corretor-redacoes-enem-ia-llm-langgraph/
 │
@@ -65,16 +65,15 @@ corretor-redacoes-enem-ia-llm-langgraph/
 
 ## 🔧 Instalação
 
-### 1. Clone o repositório
+1. Clone o repositório
 
 ```bash
 git clone https://github.com/LeoNRocha-tech/corretor-redacoes-enem-ia-llm-langgraph.git
 
-
-### 2. Criar ambiente virtual (opcional, recomendado)
+2. Criar ambiente virtual (opcional, recomendado)
 python -m venv .venv
 
-### 3. Instalar dependências
+3. Instalar dependências
 pip install -r requirements.txt
 
 ▶️ Como Executar
