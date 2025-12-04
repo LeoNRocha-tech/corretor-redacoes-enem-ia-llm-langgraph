@@ -34,31 +34,32 @@ Cada competência é avaliada de **0 a 200**, totalizando uma nota final **entre
 
 📁 Estrutura Inicial do Projeto
 
+```bash
 corretor-redacoes-enem-ia-llm-langgraph/
 │
 ├── README.md
 ├── requirements.txt
 │
 └── src/
-├── main.py
-│
-├── graph/
-│ ├── c1_norma_culta.py
-│ ├── c2_compreensao.py
-│ ├── c3_organizacao.py
-│ ├── c4_argumentacao.py
-│ ├── c5_intervencao.py
-│ └── evaluation_graph.py
-│
-├── llm/
-│ ├── model.py
-│ └── prompts.py
-│
-└── utils/
-└── helpers.py
+    ├── main.py
+    │
+    ├── graph/
+    │   ├── c1_norma_culta.py
+    │   ├── c2_compreensao.py
+    │   ├── c3_organizacao.py
+    │   ├── c4_argumentacao.py
+    │   ├── c5_intervencao.py
+    │   └── evaluation_graph.py
+    │
+    ├── llm/
+    │   ├── model.py
+    │   └── prompts.py
+    │
+    └── utils/
+        └── helpers.py
 │
 └── examples/
-└── redacao_exemplo.txt
+    └── redacao_exemplo.txt
 
 
 ---
@@ -67,7 +68,6 @@ corretor-redacoes-enem-ia-llm-langgraph/
 
 1. Clone o repositório
 
-```bash
 git clone https://github.com/LeoNRocha-tech/corretor-redacoes-enem-ia-llm-langgraph.git
 
 2. Criar ambiente virtual (opcional, recomendado)
@@ -78,7 +78,6 @@ pip install -r requirements.txt
 
 ▶️ Como Executar
 python src/main.py
-
 
 No futuro, o script receberá:
 
