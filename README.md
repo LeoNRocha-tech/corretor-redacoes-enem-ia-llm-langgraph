@@ -77,16 +77,16 @@ python -m venv .venv
 3. Instalar dependências
 pip install -r requirements.txt
 
-▶️ Como Executar
-python src/main.py
+ ▶️ Como Executar
+ python src/main.py
 
-No futuro, o script receberá:
+ No futuro, o script receberá:
 
-um arquivo .txt
+ um arquivo .txt
 
-ou uma redação fornecida via input
+ ou uma redação fornecida via input
 
-E retornará notas + feedback detalhado para cada competência.
+ E retornará notas + feedback detalhado para cada competência.
 
 ## 🚧 Status Atual (Roadmap)
 
@@ -102,7 +102,7 @@ E retornará notas + feedback detalhado para cada competência.
 - [ ] Testes com redações reais  
 - [ ] Calibração com correções humanas
 
-#🤝 Como Contribuir
+##🤝 Como Contribuir
 
 Este repositório faz parte de um projeto de aprendizado.
 Alunos podem:
@@ -115,6 +115,6 @@ melhorar prompts
 
 sugerir melhorias
 
-#📜 Licença
+##📜 Licença
 
 Distribuído sob a licença MIT.
