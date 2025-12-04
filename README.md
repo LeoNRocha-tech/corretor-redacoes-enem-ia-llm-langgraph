@@ -106,7 +106,7 @@ E retornará notas + feedback detalhado para cada competência.
 
 ---
 
-##🤝 Como Contribuir
+## 🤝 Como Contribuir
 
 Este repositório faz parte de um projeto de aprendizado.
 Alunos podem:
@@ -121,7 +121,7 @@ sugerir melhorias
 
 ---
 
-##📜 Licença
+## 📜 Licença
 
 Distribuído sob a licença MIT.
 
