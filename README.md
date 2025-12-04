@@ -61,15 +61,16 @@ corretor-redacoes-enem-ia-llm-langgraph/
 └── examples/
     └── redacao_exemplo.txt
 
-
----
+```
 
 ## 🔧 Instalação
 
 1. Clone o repositório
 
+```bash
 git clone https://github.com/LeoNRocha-tech/corretor-redacoes-enem-ia-llm-langgraph.git
 
+```
 2. Criar ambiente virtual (opcional, recomendado)
 python -m venv .venv
 
